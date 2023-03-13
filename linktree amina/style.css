@@ -1,0 +1,55 @@
+.titre{
+    color: rgb(152, 91, 209);
+    padding-left: 620px;
+    
+}
+.visite{
+    font-style: italic;
+    color: rgb(160, 84, 232);
+    padding-left: 640px;
+    padding-top: 100px;
+    
+}
+.insta{
+    text-align: center;
+    border-radius: 100px;
+    background-color: rgb(225, 145, 213);
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.twitter{
+    text-align: center;
+    border-radius: 100px;
+    background-color: rgb(225, 145, 213);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.youtube{
+    text-align: center;
+    border-radius: 100px;
+    background-color: rgb(225, 145, 213);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.prénom{
+    padding-left: 640px;
+}
+.moi{
+    border-radius: 500px;
+    size: 100px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    margin: 50px;
+    padding-left: 535px;
+}
+.image{
+    width: 100px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 500px;
+}
